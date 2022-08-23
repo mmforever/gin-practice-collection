@@ -1,0 +1,24 @@
+#配置文件示例
+app:
+    port: 8000
+    merchant: 123455
+    rider: abcdefg
+
+mysql:
+    host: "rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306"
+    user: "root"
+    password: "Thing982!test"
+    dbname: "rental"
+
+
+redis:
+    addr: 47.100.223.27:6379 
+    password: 982pro 
+    db: 0 
+
+
+kafka:
+    addrs: "139.224.249.203:9092,139.224.249.203:9093"
+    user: producer
+    password: producer123
+    topic: 982_test

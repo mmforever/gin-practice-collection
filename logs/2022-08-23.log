@@ -1,0 +1,141 @@
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 14:10:42"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 14:10:42"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 14:10:42"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 14:10:42"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 14:10:42"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 14:12:30"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 14:12:30"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 14:12:30"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 14:12:30"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 14:12:30"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 14:41:59"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 14:41:59"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 14:41:59"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 14:41:59"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 14:41:59"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 14:46:35"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 14:46:35"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 14:46:35"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 14:46:35"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 14:46:35"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 15:51:38"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 15:51:38"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 15:51:38"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 15:51:38"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 15:51:38"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 15:51:38"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 15:57:32"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 15:57:32"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 15:57:32"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 15:57:32"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 15:57:32"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 15:57:32"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:05:09"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:05:09"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:05:09"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:05:09"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:05:09"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:05:09"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:06:04"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:06:04"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:06:04"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:06:04"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:06:04"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:06:04"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:06:50"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:06:50"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:06:50"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:06:50"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:06:50"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:06:50"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:08:13"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:08:13"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:08:13"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:08:13"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:08:14"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:08:14"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:12:02"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:12:02"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:12:02"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:12:02"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:12:03"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:12:03"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:12:43"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:12:43"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:12:43"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:12:43"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:12:43"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:12:43"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:13:50"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:13:50"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:13:50"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:13:50"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:13:50"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:13:50"}
+{"claims":null,"err":"token error","level":"info","msg":"decode token","time":"2022-08-23 16:13:53"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:20:07"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:20:07"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:20:07"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:20:07"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:20:07"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:20:07"}
+{"claims":null,"err":"token error","level":"info","msg":"decode token","time":"2022-08-23 16:20:14"}
+{"claims":null,"err":"token error","level":"info","msg":"decode token","time":"2022-08-23 16:20:15"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:21:36"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:21:36"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:21:36"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:21:36"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:21:36"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:21:36"}
+{"claims":null,"err":"token error","level":"info","msg":"decode token","time":"2022-08-23 16:21:43"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:22:42"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:22:42"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:22:42"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:22:42"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:22:42"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:22:42"}
+{"claims":null,"err":"token error","level":"info","msg":"decode token","time":"2022-08-23 16:22:45"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:23:23"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:23:23"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:23:23"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:23:23"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:23:23"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:23:23"}
+{"claims":null,"err":"token error","level":"info","msg":"decode token","time":"2022-08-23 16:23:28"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:23:41"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:23:41"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:23:41"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:23:41"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:23:41"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:23:41"}
+{"claims":null,"err":"token error","level":"info","msg":"decode token","time":"2022-08-23 16:23:45"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:25:29"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:25:29"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:25:29"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:25:29"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:25:29"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:25:29"}
+{"claims":null,"err":"token error","level":"info","msg":"decode token","time":"2022-08-23 16:25:32"}
+{"claims":{"data":{"name":"chenjuan"},"exp":1661502365},"err":"","level":"info","msg":"decode token","time":"2022-08-23 16:26:13"}
+{"claims":{"data":{"name":"chenjuan"},"exp":1661502388},"err":"","level":"info","msg":"decode token","time":"2022-08-23 16:26:38"}
+{"claims":{"data":{"name":"chenjuan111"},"exp":1661502424},"err":"","level":"info","msg":"decode token","time":"2022-08-23 16:27:18"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:28:28"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:28:28"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:28:28"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:28:28"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:28:28"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:28:28"}
+{"claims":{"data":{"name":"chenjuan111"},"exp":1661502424},"err":"","level":"info","msg":"decode token","time":"2022-08-23 16:28:34"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 16:29:20"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 16:29:20"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 16:29:20"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 16:29:20"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 16:29:20"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 16:29:20"}
+{"claims":{"data":{"name":"chenjuan111"},"exp":1661502424},"err":"","level":"info","msg":"decode token","time":"2022-08-23 16:29:24"}
+{"app config":{"Port":"8000","Merchant":"123455","Rider":"abcdefg"},"err":null,"level":"info","msg":"获取 app 配置","time":"2022-08-23 17:10:11"}
+{"err":null,"level":"info","msg":"获取 mysql 配置","mysql config":{"Host":"rm-uf6qt9k7rsc19ryd1vo.mysql.rds.aliyuncs.com:3306","User":"root","Password":"Thing982!test","Dbname":"rental"},"time":"2022-08-23 17:10:11"}
+{"err":null,"level":"info","msg":"获取 redis 配置","redis config":{"Addr":"47.100.223.27:6379","Password":"982pro","Db":0},"time":"2022-08-23 17:10:11"}
+{"err":null,"kafka config":{"Servers":"","User":"producer","Password":"producer123","Topic":"982_test","Group":"","Offset":""},"level":"info","msg":"获取 kafka 配置","time":"2022-08-23 17:10:11"}
+{"level":"info","msg":"mysql connect success!!!","time":"2022-08-23 17:10:11"}
+{"err":null,"level":"info","msg":"redis 连接情况","pong":"PONG","time":"2022-08-23 17:10:11"}

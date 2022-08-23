@@ -1,0 +1,27 @@
+#配置文件示例
+app:
+    port: 8000
+    merchant: 123455
+    rider: abcdefg
+
+
+mysql:
+    host: host
+    user: user
+    password: pass
+    dbname: db
+
+
+redis:
+    addr: addr 
+    password: pass 
+    db: 0 
+
+
+kafka:
+    addrs: addr #多个地址用,隔开
+    user: user
+    password: pass
+    topic: topic
+
+
